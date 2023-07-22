@@ -1,0 +1,38 @@
+# @file mods.toml
+# @spec TOML v0.5.0 (https://github.com/toml-lang/toml)
+#
+modLoader="javafml" #mandatory
+loaderVersion="[40,)"
+license="MIT"
+
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+
+[[mods]]
+modId="colouredie"
+version="${file.jarVersion}"
+displayName="Coloured IE Crates"
+logoFile="logo.png"
+credits="Thank you devs of ie"
+authors="redstoneguy10ls"
+description='''
+Again it adds coloured crates
+'''
+
+[[dependencies.colouredie]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.colouredie]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.colouredie]]
+modId="immersiveengineering"
+mandatory=true
+versionRange="[1.18.2-8.4.0-161,)"
+ordering="NONE"
+side="BOTH"

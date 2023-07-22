@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "immersiveengineering:crate",
+    "immersiveengineering:black_crate",
+    "immersiveengineering:blue_crate",
+    "immersiveengineering:brown_crate",
+    "immersiveengineering:cyan_crate",
+    "immersiveengineering:gray_crate",
+    "immersiveengineering:green_crate",
+    "immersiveengineering:light_blue_crate",
+    "immersiveengineering:light_gray_crate",
+    "immersiveengineering:lime_crate",
+    "immersiveengineering:magenta_crate",
+    "immersiveengineering:orange_crate",
+    "immersiveengineering:pink_crate",
+    "immersiveengineering:purple_crate",
+    "immersiveengineering:red_crate",
+    "immersiveengineering:white_crate",
+    "immersiveengineering:yellow_crate"
+  ]
+}
