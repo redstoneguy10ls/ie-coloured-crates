@@ -1,0 +1,21 @@
+{
+"type": "immersiveengineering:turn_and_copy",
+  "pattern": [
+    "d",
+    "c",
+    "d"
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft:white_dye"
+    },
+    "c": {
+      "tag": "colouredie:crates"
+    }
+  },
+  "result": {
+    "item": "immersiveengineering:white_crate"
+  },
+  "eighth_turn": true,
+  "copy_nbt": 4
+}
